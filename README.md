@@ -1,6 +1,9 @@
 # Smart-student-Success-predictor
 Smart Student Success Predictor is a machine learning project that predicts student academic performance based on study habits, attendance, sleep, and other educational factors. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and prediction using Python and Scikit-learn.
-# 🎓 Smart Student Success Predictor using Machine Learning ![view] (https://github.com/agenticanalyst/Smart-student-Success-predictor/blob/main/python/predicting-academic-success-eda-rf-dt-knn-lr.ipynb)
+# 🎓 Smart Student Success Predictor using Machine Learning 
+
+## link
+https://github.com/agenticanalyst/Smart-student-Success-predictor/blob/main/python/predicting-academic-success-eda-rf-dt-knn-lr.ipynb
 
 <p align="center">
   <img src="https://github.com/agenticanalyst/Smart-student-Success-predictor/blob/main/python/smart-student-sucess%20predictor.png"alt="Smart Student Success Predictor Banner" width="100%">
